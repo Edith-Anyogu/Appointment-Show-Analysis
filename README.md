@@ -28,4 +28,4 @@ In this analysis I will be analysing the no show appointment dataset, that conta
 - SMS_received 1 or 0.
 - No-show -Yes or No. Yes or No - 'Yes' indicates patients did not show up while 'No' indicates show up
 
-## Scholarship, Hipertention, Diabetes, Alcoholism, and SMS_received are binary fields ( 0 or 1) - signifying True or False.
+## Scholarship, Hipertention, Diabetes,  Alcoholism, and SMS_received are binary fields ( 0 or 1) - signifying True or False.
